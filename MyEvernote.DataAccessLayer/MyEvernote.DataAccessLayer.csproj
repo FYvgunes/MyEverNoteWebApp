@@ -2,11 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <UserSecretsId>d1748daf-76cb-4dd9-86dc-9226966c86b5</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="EntityFramework" Version="6.1.3" />
     <PackageReference Include="FakeData" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyEvernote.Entities\MyEvernote.Entities.csproj" />
   </ItemGroup>
 
 </Project>

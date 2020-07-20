@@ -4,3 +4,15 @@ C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\obj\Debug
 C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\obj\Debug\netstandard2.0\MyEvernote.DataAccessLayer.AssemblyInfoInputs.cache
 C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\obj\Debug\netstandard2.0\MyEvernote.DataAccessLayer.AssemblyInfo.cs
 C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\bin\Debug\netstandard2.0\MyEvernote.Entities.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\obj\Debug\netstandard2.0\MyEvernote.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\bin\Debug\netstandard2.0\MyEvernote.DataAccessLayer.pdb
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\bin\Debug\netstandard2.0\MyEvernote.Entities.pdb
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\obj\Debug\netstandard2.0\MyEvernote.DataAccessLayer.csproj.CopyComplete
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\obj\Debug\netstandard2.0\MyEvernote.DataAccessLayer.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.DataAccessLayer\obj\Debug\netstandard2.0\MyEvernote.DataAccessLayer.pdb

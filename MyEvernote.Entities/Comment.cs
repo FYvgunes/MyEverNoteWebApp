@@ -7,7 +7,8 @@ using System.Text;
 namespace MyEvernote.Entities
 {
     [Table("Commets")]
-    public class Comment { 
+    public class Comment:MyEntitybase
+    { 
     
         [Required,StringLength(250)]
         public string text { get; set; }

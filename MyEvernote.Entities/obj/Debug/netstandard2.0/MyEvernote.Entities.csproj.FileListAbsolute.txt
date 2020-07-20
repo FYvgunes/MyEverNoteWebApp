@@ -1,0 +1,16 @@
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\bin\Debug\netstandard2.0\MyEvernote.Entities.deps.json
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\bin\Debug\netstandard2.0\MyEvernote.Entities.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\bin\Debug\netstandard2.0\MyEvernote.Entities.pdb
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\obj\Debug\netstandard2.0\MyEvernote.Entities.csprojAssemblyReference.cache
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\obj\Debug\netstandard2.0\MyEvernote.Entities.AssemblyInfoInputs.cache
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\obj\Debug\netstandard2.0\MyEvernote.Entities.AssemblyInfo.cs
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\obj\Debug\netstandard2.0\MyEvernote.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\obj\Debug\netstandard2.0\MyEvernote.Entities.csproj.CopyComplete
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\obj\Debug\netstandard2.0\MyEvernote.Entities.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Entities\obj\Debug\netstandard2.0\MyEvernote.Entities.pdb

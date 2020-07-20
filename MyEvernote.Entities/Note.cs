@@ -11,7 +11,7 @@ namespace MyEvernote.Entities
 {
     [Required,StringLength(60)] 
         public string Title { get; set; }
-    [Required,StringLength(2000]
+    [Required,StringLength(2000)]
         public string text { get; set; }
         public bool IsDaraf { get; set; }
         public int LikeCount { get; set; }

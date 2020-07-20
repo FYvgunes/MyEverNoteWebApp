@@ -76,3 +76,13 @@ C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\obj\Debug\MyEvernote.
 C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\obj\Debug\MyEvernote.Web.csproj.CopyComplete
 C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\obj\Debug\MyEvernote.Web.dll
 C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\obj\Debug\MyEvernote.Web.pdb
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\bin\EntityFramework.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\bin\MyEvernote.BussinesLayer.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\bin\MyEvernote.Entities.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\bin\MyEvernote.DataAccessLayer.dll
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\bin\MyEvernote.BussinesLayer.pdb
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\bin\MyEvernote.Entities.pdb
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\bin\EntityFramework.xml
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Veysel\source\repos\MyEvernote.Web\MyEvernote.Web\bin\MyEvernote.DataAccessLayer.pdb
